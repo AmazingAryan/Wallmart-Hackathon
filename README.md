@@ -18,7 +18,6 @@ Shipping Type
 Discount Applied
 Promo Code Used
 Previous Purchases
-Payment Method
 Frequency of Purchases
 
 
